@@ -1,0 +1,85 @@
+.styleMcq {
+    background-image: url('../../assets/Elements/contenQuestion.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    width: 690px;
+    min-height: 175px;
+    margin: 20px auto 0;;
+}
+
+.answerDefault {
+    position: relative;
+    background-image: url('../../assets/Elements/answerDefault.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: -10px auto 0;
+    width: 50px;
+    height: 50px;
+}
+
+.answerTrue {
+    position: relative;
+    background-image: url('../../assets/Elements/answerTrue.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: -10px auto 0;
+    width: 50px;
+    height: 50px;
+}
+
+.answerFalse {
+    position: relative;
+    background-image: url('../../assets/Elements/answerFalse.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: -10px auto 0;
+    width: 50px;
+    height: 50px;
+}
+
+.styleTextP {
+    font-family: 'Gotham';
+    font-size: 20px;
+    width: 650px !important;
+    margin: 0 auto;
+    min-height: 60px;
+}
+
+.styleForm {
+    position: absolute;
+    font-family: 'Gotham';
+    font-weight: bold;
+    top: 130px;
+    left: 200px;
+}
+
+.styleAnswer {
+    position: relative;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.styleLableAnswer {
+    background-image: url('../../assets/Elements/btnAnswer.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* width: 128px;
+    height: 50px;
+    padding-top: 5px;
+    font-size: 19px; */
+
+    width: 128px;
+    height: 40px;
+    font-size: 20px;
+    outline: none;
+    background-color: Transparent;
+    overflow: hidden;
+    box-shadow: none;
+    border: none;
+}
+
+.styleLableAnswer:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+};

@@ -1,0 +1,45 @@
+.contenedor {
+    max-width: 900px;
+    max-height: 510px;
+    margin: 0 auto;
+}
+
+.contextoPe {
+    position: relative;
+    background-image: url('../../../assets/Elements/peliAsoc.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0 auto;
+    width: 750px;
+    height: 450px;
+}
+
+.contextoLe {
+    position: relative;
+    background-image: url('../../../assets/Elements/lesiones.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0 auto;
+    width: 750px;
+    height: 450px;
+}
+
+.contextoAa {
+    position: relative;
+    background-image: url('../../../assets/Elements/aspecAmbi.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0 auto;
+    width: 750px;
+    height: 450px;
+}
+
+.contextoAp {
+    position: relative;
+    background-image: url('../../../assets/Elements/AmenProb.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0 auto;
+    width: 750px;
+    height: 450px;
+}

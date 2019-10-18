@@ -1,0 +1,47 @@
+.contenidoTransporte {
+    position: relative;
+    width: 820px;
+    height: 435px;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.contentTextTrans .text {
+    font-size: 18px;
+}
+
+.Transp {
+    position: relative;
+    background: url('../../../assets/Elements/bgTrans.png') no-repeat;
+    background-size: 100%;
+    margin-top: -35px;
+}
+
+.contTextTrans {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 69px;
+}
+
+.contTextTrans .text {
+    position: relative;
+    padding: 10px;
+    border: 2px solid #4080C0;
+    border-radius: 15px;
+}
+
+.contTextTrans span.textA {
+    font-weight: bolder;
+    color: #4080C0;
+}
+
+.contTextTrans span.textA:hover {
+    display: inline-flex;
+    transform: scale(1.05);
+    cursor: pointer;
+}

@@ -1,0 +1,95 @@
+.contenedor {
+    max-width: 900px;
+    max-height: 510px;
+    margin: 0 auto;
+}
+
+.contexto6 {
+    position: relative;
+    margin: 0 auto;
+    width: 800px;
+    height: 450px;
+}
+
+.Acci {
+    position: relative;
+    width: 94%;
+    margin: 0 auto;
+    padding: 20px 30px 0;
+}
+
+.Acci:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.Emer {
+    position: relative;
+    width: 104%;
+    margin: 0 auto;
+    padding: 20px 30px 0;
+}
+
+.Emer:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.Evac {
+    position: relative;
+    width: 104%;
+    margin: 0 auto;
+    padding: 20px 30px 0;
+}
+
+.Evac:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.TextA {
+    color: #4080C0;
+    font-size: 29px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.unic {
+    text-align: center;
+}
+
+.textI {
+    font-style: italic;
+    position: relative;
+    top: 16px;
+}
+
+.cuidate {
+    position: relative;
+    height: 240px;
+}
+
+.Dwn6 {
+    position: relative;
+    width: 580px;
+    height: 80px;
+    display: inline-flex;
+    color: #808080;
+    font-style: italic;
+    z-index: 99;
+}
+
+.coin6 {
+    position: relative;
+    /* width: 150px !important; */
+    top: 0 !important;
+    margin-right: 20px;
+    display: block;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.coin6:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}

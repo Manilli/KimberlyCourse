@@ -1,0 +1,161 @@
+.contenedor {
+    max-width: 900px;
+    max-height: 510px;
+    margin: 0 auto;
+}
+
+.contexto {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.Terr {
+    background-image: url('../../../assets/Elements/terreno.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* position: relative; */
+    width: 440px;
+    height: 300px;
+    margin: 0 auto 0 200px;
+}
+
+.textPop:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.Peligro {
+    position: relative;
+    padding: 0;
+}
+
+.Riesgo {
+    position: relative;
+    padding: 0;
+}
+
+.ImpAmb {
+    position: relative;
+    padding: 0;
+}
+
+.Amenaza {
+    position: relative;
+    padding: 0;
+}
+
+.Situa {
+    position: relative;
+    margin: 0 15px;
+    height: 310px;
+    left: -60px;
+}
+
+.span_textDwn {
+    display: inline-flex;
+    font-style: italic;
+    color: #808080;
+    text-align: left;
+    margin: 10px auto 0 65px;
+    height: 60px;
+}
+
+.coin2 {
+    position: relative;
+    width: 110px !important;
+    height: 100px ;
+    top: -45px !important;
+    margin-left: 20px !important;
+    display: block;
+    text-decoration:none;
+    overflow:hidden;
+}
+
+.textPop {
+    color: #4080C0;
+    font-size: 18px;
+    font-weight: bold;
+    width: 180px;
+}
+
+.coin2:hover {
+    transform: scale(1.1);
+    z-index: 99;
+}
+
+.coin2 span{
+    position:relative;
+    display: block;
+    background:url('../../../assets/brillog.png') no-repeat; 
+    background-position: -300px 0px;
+    margin-top:-137px;
+    height: 133px;
+    width: 132px;
+}
+
+.coin2:hover span{
+    background-position: 300px 0px;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 1.5s;
+    transition-property: all;
+    transition-duration: 1.5s;
+}
+
+.lineAux {
+    position: absolute;
+    background-color: #753BA3;
+    width: 800px;
+    height: 1px;
+    border-radius: 20%;
+    top: 230px;
+    left: -50px;
+}
+
+.im {
+    position: relative;
+    top: 20px;
+}
+
+.gPeligro {
+    width: 70%;
+    top: 65px;
+}
+
+.gPeligro:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.gRiesgo {
+    width: 130%;
+    top: 35px;
+}
+
+.gRiesgo:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.gImpAmb {
+    width: 220%;
+    top: 123px;
+    left: -10px;
+    position: relative;
+    z-index: 99;
+}
+
+.gImpAmb:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.gAmenaza {
+    width: 96%;
+    top: -35px;
+    left: 120px;
+}
+
+.gAmenaza:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}

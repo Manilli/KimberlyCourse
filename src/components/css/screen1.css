@@ -1,0 +1,38 @@
+.containe {
+    width: 900px;
+    height: 491px;
+    margin: 0 auto 1rem;
+}
+
+.contenido {
+    margin: 0px 60px;
+}
+
+.parraf {
+    z-index: 2;
+    font-size: 18px;
+}
+
+.parraf .txt1{
+    width: 500px;
+}
+
+.parraf .txt2 {
+    width: 350px;
+}
+
+.parraf > .row {
+    margin-bottom: 20px;
+}
+
+.feeter {
+    margin: 0px 280px 0 70px;
+}
+
+.persona {
+    position: absolute;
+    margin-top: -30px;
+    margin-left: 360px;
+    width: 470px;
+    z-index: -1;
+}

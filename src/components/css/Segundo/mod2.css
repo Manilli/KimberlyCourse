@@ -1,0 +1,65 @@
+.contenedor {
+    max-width: 900px;
+    max-height: 510px;
+    margin: 0 auto;
+}
+
+.textN {
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    text-align: left;
+    z-index: 2;
+}
+
+.comencemos {
+    color: #4080C0;
+    font-weight: bolder;
+    position: relative;
+    margin: -20px auto 0 330px;
+    font-size: 26px;
+}
+
+.ciud2 {
+    margin-left: -25px;
+}
+
+.ciud2:hover {
+    position: relative;
+    top: -50px;
+    left: -150px;
+    transform: scale(1.4);
+    margin: 0 auto;
+    z-index: 99;
+}
+
+.Dwn {
+    display: inline-flex;
+    width: 600px;
+    color: #808080;
+    font-style: italic;
+}
+
+.segMod {
+    position: relative;
+    width: 400px;
+}
+
+.fndA {
+    position: absolute;
+    background-color: #4080C0;
+    color: white;
+    padding: 0 0 10px 50px;
+    left: -75.6px;
+    width: 400px;
+    font-size: 18px;
+}
+
+.textoA {
+    position: relative;
+    top: 100px;
+    font-size: 23px;
+    color: #4080C0;
+    font-family: Gotham;
+    /* left: -35px; */
+}

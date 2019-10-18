@@ -1,0 +1,93 @@
+.contenedor {
+    max-width: 900px;
+    min-height: 510px;
+    margin: 0 auto;
+}
+
+.sos {
+    max-width: 900px;
+    max-height: 346px;
+    margin: 0 auto;
+}
+
+.span_text2{
+    width: 600px;
+    text-align: left;
+    margin: 18px auto 0;
+}
+
+.span_text2 > .text2 {
+    text-align: left;
+    font-size: 16px;
+    margin: 0 auto;
+}
+
+.textSpan {
+    font-weight: bold;
+    font-size: 16px;
+    color: #4080C0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.imgSos {
+    /* background-image: url('../../assets/Elements/sos.png');
+    background-repeat: no-repeat;
+    background-size: 100%; */
+    margin: -20px auto 0;
+}
+
+.imgSos {
+    background-image: url('../../assets/Elements/sos.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 98%;
+    height: 380px;
+    margin: -20px auto 0;
+    display: inline-grid;
+}
+
+.textSos {
+    margin: 0 15px;
+    color: white;
+    font-family: 'Gotham';
+    font-size: 22px;
+}
+
+.verlo {
+    position: relative;
+    text-align: right;
+    top: 70px;
+    right: 235px;
+    height: 30px;
+}
+
+.verlo:hover {
+    transform: scale(1.03);
+    cursor: pointer;
+}
+
+.adue {
+    position: relative;
+    text-align: right;
+    top: 20px;
+    right: 70px;
+    height: 30px;
+}
+
+.adue:hover {
+    transform: scale(1.03);
+    cursor: pointer;
+}
+
+.resolv {
+    position: relative;
+    text-align: right;
+    right: 25px;
+    height: 30px;
+}
+
+.resolv:hover {
+    transform: scale(1.03);
+    cursor: pointer;
+}

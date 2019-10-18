@@ -1,0 +1,78 @@
+.Main {
+  background-image: url('../../assets/Backgrounds/fondo.png');
+  position: relative;
+  z-index: 0;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 900px;
+  max-height: 720px;
+}
+
+.Main-header {
+  background-image: url('../../assets/Elements/header.png');
+  background-repeat: no-repeat; 
+  background-size: 100%;
+  height: 76px;
+}
+
+.main {
+  overflow: auto;
+  margin: 0 auto;
+  height: 510px;
+  padding: 0px;
+}
+
+.hider {
+  visibility: hidden;
+}
+
+.btnT{
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 55px;
+  height: 60px;
+  cursor: pointer;
+  display: inline-flex;
+  position: relative;
+  margin: 62px 8px auto;
+}
+
+.oRight {
+  border-radius: 40%;
+  background-image: url('../../assets/Elements/btnRight.png');
+}
+
+.oLeft {
+  border-radius: 40%;
+  background-image: url('../../assets/Elements/btnLeft.png');
+}
+
+.btnT:hover{
+  transform: scale(1.1);
+}
+
+.oBack {
+  border-radius: 25%;
+  background-image: url('../../assets/Elements/volver.png');
+  width: 120px;
+}
+
+.botones{
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+#footer{
+  position: relative;
+  background-image: url('../../assets/Elements/footer.png');
+  background-position: bottom;
+  background-size: 100% 55%;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  height: 134px;
+  z-index: 4;
+}

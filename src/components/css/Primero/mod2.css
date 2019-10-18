@@ -1,0 +1,94 @@
+.contenedor {
+    max-width: 900px;
+    max-height: 510px;
+    margin: 0 auto;
+}
+
+.contexto {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.Terr {
+    background-image: url('../../../assets/Elements/terreno.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* position: relative; */
+    width: 440px;
+    height: 300px;
+    margin: 0 auto 0 200px;
+}
+
+.textPop:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.p1 {
+    position: relative;
+    left: -180px;
+    top: 10px;
+}
+
+.p2 {
+    position: relative;
+    left: 145px;
+}
+
+.p3 {
+    position: relative;
+    top: 106px;
+    left: -115px;
+}
+
+.span_textDwn {
+    display: inline-flex;
+    font-style: italic;
+    color: #808080;
+    text-align: left;
+    margin: 10px auto 0 65px;
+    height: 60px;
+}
+
+.coin2 {
+    position: relative;
+    width: 110px !important;
+    height: 100px ;
+    top: -45px !important;
+    margin-left: 20px !important;
+    display: block;
+    text-decoration:none;
+    overflow:hidden;
+    z-index: 99;
+}
+
+.textPop {
+    color: #4080C0;
+    font-size: 18px;
+    font-weight: bold;
+    width: 180px;
+}
+
+.coin2:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+    z-index: 99;
+}
+
+.coin2 span{
+    position:relative;
+    display: block;
+    background:url('../../../assets/brillog.png') no-repeat; 
+    background-position: -300px 0px;
+    margin-top:-137px;
+    height: 133px;
+    width: 132px;
+}
+
+.coin2:hover span{
+    background-position: 300px 0px;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 1.5s;
+    transition-property: all;
+    transition-duration: 1.5s;
+}

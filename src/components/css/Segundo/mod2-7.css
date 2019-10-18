@@ -1,0 +1,104 @@
+.contenedor {
+    max-width: 900px;
+    min-height: 510px;
+    margin: 0 auto;
+}
+
+.contexto7 {
+    position: relative;
+    margin: 0 auto;
+    width: 900px;
+    height: 450px;
+}
+
+.clases {
+    padding: 0;
+}
+
+.claseAImg {
+    position: relative;
+    width: 71%;
+}
+
+.claseAImg:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.claseBImg {
+    position: relative;
+    width: 92%;
+}
+
+.claseBImg:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.claseCImg {
+    position: relative;
+    width: 82%;
+}
+
+.claseCImg:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.claseOpen {
+    position: relative;
+    width: 88%;
+}
+
+.textI {
+    font-style: italic;
+    position: relative;
+    top: 16px;
+}
+
+.extintores {
+    max-width: 530px;
+    position: relative;
+    margin: 0 auto;
+    /* top: 6px; */
+}
+
+.Dwn7 {
+    position: relative;
+    width: 850px;
+    display: inline-flex;
+    margin: 16px auto;
+}
+
+.coin7 {
+    position: relative;
+    /* width: 150px !important; */
+    top: 0 !important;
+    margin-left: 20px;
+    display: block;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.coin7:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.info {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.Dwn6-1 {
+    position: relative;
+    width: 580px;
+    /* top: 10px; */
+    display: inline-flex;
+    color: #808080;
+    font-style: italic;
+}
+
+.Dwn6-1 > p {
+    margin: 0 auto;
+}

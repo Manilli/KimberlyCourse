@@ -1,0 +1,66 @@
+.contentValor {
+    position: relative;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 0 auto;
+}
+
+.bgCity {
+    background: url('../../../assets/Elements/bgCity.png') no-repeat;
+    background-position: right;
+    background-size: 78%;
+    width: 780px;
+    height: 390px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.propFilepdfCelular>img {
+    width: 70px;
+}
+
+.propFilepdfCelular {
+    position: relative;
+    top: 30px;
+    left: 240px;
+}
+
+.pers {
+    position: relative;
+    width: 150px;
+}
+
+.prsn1 {
+    right: 125px;
+    top: 30px;
+}
+
+.prsn2 {
+    right: 155px;
+    top: -130px;
+}
+
+.prsn3 {
+    left: 175px;
+    top: -160px;
+}
+
+.prsn1:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.prsn2:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.prsn3:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}

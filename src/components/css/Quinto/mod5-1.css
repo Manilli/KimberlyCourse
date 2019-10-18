@@ -1,0 +1,25 @@
+.buenasPracticas {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    color: #808080;
+    font-family: Arial;
+    font-size: 17px;
+}
+
+.textPract {
+    position: relative;
+    display: flex;
+}
+
+.buenas {
+    position: relative;
+    width: 100%;
+}
+
+.buenas:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}

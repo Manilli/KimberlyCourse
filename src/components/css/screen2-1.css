@@ -1,0 +1,80 @@
+.contenedor2-1 {
+    max-width: 900px;
+    max-height: 510px;
+    margin: 0 auto;
+}
+
+.recomNavega {
+    background-image: url('../../assets/Elements/recomendaNavega.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 900px;
+    height: 550px;
+    display: table;
+}
+
+@font-face {
+    font-family: "Gotham";
+    src: url("../../assets/Fonts/GOTHAM\ BOOK.TTF");
+}
+
+.menus {
+    vertical-align: middle;
+    margin: 0 auto;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.icnsMn {
+    font-family: 'Gotham';
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    z-index: 99;
+}
+
+.icnsMn:hover {
+    display: inline-block;
+    transform: scale(1.1);
+    cursor: pointer;
+    color: #4080C0;
+}
+
+.customRow {
+    margin: 0;
+}
+
+.Prin {
+    height: 120px;
+    margin: 0;
+}
+
+.iSalir {
+    margin: 0 auto 0 740px;
+}
+
+.iMenu {
+    margin: 65px auto 0 20px;
+}
+
+.iTienda {
+    margin: 10px auto 0 20px;
+}
+
+.iAtras {
+    margin: 148px auto 0 260px;
+}
+
+.iAdelante {
+    margin: 148px auto 0 20px;
+}
+
+.iPdf {
+    margin: 0 auto 0 260px;
+    position: relative;
+    top: 30px;
+}
+
+.iSubr {
+    margin: -10px auto 0 290px;
+}

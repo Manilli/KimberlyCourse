@@ -1,0 +1,60 @@
+.contenedor {
+    max-width: 900px;
+    min-height: 510px;
+    margin: 0 auto;
+}
+
+.recomendaciones {
+    max-width: 900px;
+    max-height: 346px;
+    margin: 0 auto;
+}
+
+.parraf {
+    z-index: 2;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.desktop {
+    background-image: url('../../assets/Elements/recomendaciones.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 98%;
+    height: 280px;
+    margin: 40px auto 0;
+}
+
+.span_text {
+    width: 230px;
+    font-style: italic;
+    color: #808080;
+    text-align: left;
+    margin: 18px 275px 0;
+}
+
+.row > .parraf, .row > .recomendaciones{
+    margin: auto 30px;
+}
+
+.span_text > .text {
+    font-size: 15px;
+}
+
+.navegacion > img {
+    margin: -25px 540px 0 0;
+    cursor: pointer;
+}
+
+.navegacion>img:hover {
+    transform: scale(1.1);
+}
+
+.estudio > img {
+    margin: 220px 0 0 600px;
+    cursor: pointer;
+}
+
+.estudio>img:hover {
+    transform: scale(1.1);
+}

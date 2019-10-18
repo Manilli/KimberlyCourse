@@ -1,0 +1,175 @@
+/* .Game{
+    height: 470px;
+} */
+
+/* .game {
+  overflow: auto;
+  max-width: 900px;
+  height: 100%;
+  margin: 0 auto;
+  display: inline-flex;
+  padding: 0 100px 100px;
+} */
+
+.main-game{
+    position: relative;
+    margin: 10px;
+}
+
+.contan {
+    width: 70% !important;
+}
+
+.edit{
+    padding: .24rem 0.9rem !important;
+    cursor: pointer
+}
+
+.wordsSearched{
+    margin: auto;
+}
+
+.fila{
+    padding: 0.2rem 10px !important;
+    width: 200px;
+}
+
+li {
+  font-family: 'Gotham' !important;
+  text-align: left;
+}
+
+.cabecera {
+  background-color: #4080C0;
+  color: white;
+  font-weight: bold !important;
+  text-align: center;
+}
+
+.nume {
+  position: relative;
+  text-align: left !important;
+  color: #4080C0;
+  font-weight: bold;
+}
+
+.contextoG {
+  margin-top: -20px;
+}
+
+.puzzleWrap {
+  margin: 0 auto;
+}
+
+
+/* ######################################################################################################################################################################## */
+
+/**
+* Wordfind.js 0.0.1
+* (c) 2012 Bill, BunKat LLC.
+* Wordfind is freely distributable under the MIT license.
+* For all details and documentation:
+*     http://github.com/bunkat/wordfind
+*/
+
+/* p {
+    font: 22pt sans-serif;
+    margin: 20px 20px 0px 20px;
+  } */
+  
+  /**
+  * Styles for the puzzle
+  */
+  #juego {
+    position: relative;
+    border: 1px solid #4080C0;
+    float: left;
+    margin: 0 auto;
+    z-index: 99;
+  }
+
+  .puzzleCont {
+    width: 810px;
+    margin: 0 auto;
+  }
+  
+  #juego div {
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  /* style for each square in the puzzle */
+  #juego .puzzleSquare {
+    height: 27px;
+    width: 27px;
+    text-transform: uppercase;
+    background-color: white;
+    border: 1px solid #4080C0;
+    font-family: 'Gotham';
+    font-size: 14px;
+  }
+  
+  button::-moz-focus-inner {
+    border: 0;
+  }
+  
+  /* indicates when a square has been selected */
+  #juego .selected {
+    background-color: #4080C0;
+    color: white;
+  }
+  
+  /* indicates that the square is part of a word that has been found */ 
+  #juego .found {
+    background-color: #4080C0;
+    color: white;
+  }
+  
+  #juego .solved {
+    background-color: #4080C0;
+    color: white;
+  }
+  
+  /* indicates that all words have been found */
+  #juego .complete {
+    background-color: #3979FF;
+  }
+  
+  
+  #Palabras {
+    padding-top: 21px;
+  }
+  #Palabras ul {
+    list-style-type: none;
+    transform: translateY(40%);
+  }
+  
+  #Palabras li {
+    padding: 3px 0;
+    font: 1em sans-serif;
+  }
+  
+  /* indicates that the word has been found */
+  #Palabras .wordFound {
+    text-decoration: line-through;
+    color: white;
+    background-color: #4980D0;
+  }
+
+  #Palabras .wordFound span {
+    color: white;
+  }
+
+  .textT {
+    display: inline-block;
+    margin: 0 auto;
+    position: relative;
+  }
+
+  .textNB {
+    font-size: 20px;
+    font-weight: bold;
+    color: #4080D0;
+  }
+  
+/* ######################################################################################################################################################################## */

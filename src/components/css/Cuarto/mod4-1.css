@@ -1,0 +1,24 @@
+.contenidoQuimico {
+    position: relative;
+    width: 750px;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.contentText .text {
+    margin: 15px;
+}
+
+.contentText {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.quimicos {
+    position: relative;
+    width: 80%;
+    margin: -35px 0 0;
+}

@@ -1,0 +1,55 @@
+.Empareja {
+    position: relative;
+    width: 95%;
+    top: -25px;
+    left: 22px;
+}
+
+.contB {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #4080C0;
+    border-radius: 20px;
+    margin: 10px auto;
+    min-height: 90px;
+    width: 90%;
+}
+
+.contB .text {
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+.contB .text:hover {
+    cursor: pointer;
+}
+
+.contW {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1.5px solid #4080C0;
+    border-radius: 20px;
+    margin: 10px auto;
+    min-height: 85px;
+    width: 100%;
+}
+
+.contW .text {
+    text-align: center;
+    margin: 10px;
+}
+
+.contW .text:hover {
+    cursor: pointer;
+}
+
+#comp1, #comp2, #comp3, #par1, #par2, #par3 {
+    user-select: none;
+}

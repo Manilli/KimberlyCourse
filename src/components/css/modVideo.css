@@ -1,0 +1,91 @@
+.contenedor {
+    max-width: 900px;
+    max-height: 510px;
+    margin: 0 auto;
+}
+
+.vid {
+    max-width: 900px;
+    margin: -15px auto 0;
+}
+
+.row > .vid {
+    margin: auto 15px;
+}
+
+.customVideo {
+    margin: -6px auto 0;
+    width: 815px;
+    height: 100%;
+}
+
+.Dwn {
+    display: inline-flex;
+    color: #808080;
+    font-style: italic;
+}
+/* 
+.Dwn {
+    display: inline-flex;
+    width: 520px;
+    color: #808080;
+    font-style: italic;
+} */
+
+.Dwn > .text {
+    position: relative;
+    margin: 20px auto 0;
+    text-align: center;
+}
+
+
+.coin {
+    position: relative;
+    width: 110px !important;
+    top: 0 !important;
+    margin-right: 20px;
+    display: block;
+    text-decoration:none;
+    overflow:hidden;
+}
+
+.coin:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+    z-index: 99;
+}
+
+.coin span{
+    position:relative;
+    display: block;
+    background:url('../../assets/brillog.png') no-repeat; 
+    background-position: -300px 0px;
+    margin-top:-137px;
+    height: 133px;
+    width: 132px;
+}
+
+.coin:hover span{
+    background-position: 300px 0px;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 1.5s;
+    transition-property: all;
+    transition-duration: 1.5s;
+}
+
+.btnPlay {
+    width: 100px;
+    height: 100px;
+}
+
+.contentBtn {
+    position: absolute;
+    width: 100%;
+    margin: 0 auto;
+    top: 130px;
+}
+
+.contentBtnHidden {
+    position: absolute;
+    visibility: hidden;
+}

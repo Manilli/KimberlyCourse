@@ -1,0 +1,39 @@
+.contentEvaFinal {
+    position: relative;
+    width: 600px;
+    height: 510px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.cus {
+    font-size: 18px;
+    text-align: center;
+}
+
+p.cus.textNB {
+    font-size: 50px;
+}
+
+p.cus.textNB:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.cant {
+    position: relative;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: 'Gotham';
+    color: #4080C0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    /* top: 20px; */
+}

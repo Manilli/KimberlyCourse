@@ -1,0 +1,94 @@
+.contenedorPregu {
+    position: relative;
+    width: 800px;
+    /* height: 510px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px auto;
+}
+
+.pregunta {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    text-align: left;
+    font-family: 'Gotham';
+    font-size: 18px;
+}
+
+.indicador {
+    position: relative;
+    background: url('../../assets/Elements/viñeta.png') no-repeat;
+    background-size: 100%;
+    max-width: 24px;
+    min-width: 24px;
+    max-height: 8px;
+    min-height: 8px;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+.opciones {
+    position: relative;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    text-align: left;
+    margin: 0 auto 10px;
+}
+
+.opc {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin: 2px 0;
+    font-family: 'Gotham';
+    font-size: 18px;
+}
+/* #64309D */
+/* .check {
+    position: relative;
+    /* background: url('../../assets/Elements/check.png') no-repeat;
+    background-size: 50%; *//*
+    background-color: #64309D;
+    height: 30px;
+    padding: 0; 
+} */
+
+input[type=radio] {
+    /* float: right; */
+    -webkit-appearance: none;
+    border: none;
+    max-width: 30px;
+    height: 30px;
+    background: url('../../assets/Elements/check.png') left center no-repeat;    
+    background-size: 100%;
+}
+
+input[type=radio]:checked  {
+    /* float: right; */
+    -webkit-appearance: none;
+    border: none;
+    max-width: 30px;
+    height: 30px;
+    background: url('../../assets/Elements/checked.png') left center no-repeat;    
+    background-size: 100%;
+}
+
+/* .checked {
+    position: relative;
+    /* background: url('../../assets/Elements/checked.png') no-repeat;
+    background-size: 50%; *//*
+    background-color: #64309D;
+    height: 30px;
+    padding: 0;
+} */

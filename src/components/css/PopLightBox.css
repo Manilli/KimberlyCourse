@@ -1,0 +1,795 @@
+.popupbox {
+    /* max-width: 900px !important; */
+    max-height: 720px !important;
+    min-height: 720px !important;
+    margin: 0 auto;
+}
+
+.popupbox-overlay {
+    max-height: 720px !important;
+    min-height: 720px !important;
+    margin: 0 auto;
+    opacity: 0.25 !important;
+}
+
+.popupbox-btn--close {
+    top: 0 !important;
+}
+
+.popupbox-wrapper {
+    background-color: rgba(255, 255, 255, 0) !important;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0) !important;
+    max-width: 95% !important;
+    min-width: 95% !important;
+    max-height: 720px !important;
+    min-height: 720px !important;
+    margin: 0 auto;
+    padding: 0 !important;
+    align-items: center;
+    justify-content: center;
+}
+
+.popupbox-titleBar {
+    border-top: 0px solid !important;
+    border-bottom: 0px solid !important;
+    position: relative !important;
+    max-width: 860px !important;
+    min-width: 860px !important;
+    margin: 0 auto !important;
+    top: 50px !important;
+    right: 10px !important;
+    padding: 0px 0 48px !important;
+}
+
+.btnClosePop {
+    background-image: url('../../assets/Elements/btnClose.png') !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% !important;
+    border-radius: 40% !important;
+    width: 60px !important;
+    height: 76px !important;
+    cursor: pointer !important;
+}
+
+.btnClosePop:hover {
+    transform: scale(0.9);
+}
+
+/* ---------------------------------------------------------- */
+
+
+.popOneEstudio {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popSugerencias.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneMenu {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popMenu.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneSalir {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popSalir.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneSubr {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popSubr.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneTienda {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popTienda.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnePdf {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popPdf.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneAtras {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popAtras.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneAdelante {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popAdelante.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneVerlo {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/verlo.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneAdue {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/adue.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneResolv {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/resolv.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnep1 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/p1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnep3 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/p2.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnep2 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/p3.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnecoinVideOne {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/coinVideOne.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnecoinTerr {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/coinTerr.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnepplePtho {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/poPpplePtho.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+
+.popOnePeligro {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/peligro-46.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneRiesgo {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/riesgo-46.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneImpAmb {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/ImpAmbi-46.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneAmenaza {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Amenaza-46.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnecoinSitua {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/coinSitua.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneAcci {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popAcci.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEmer {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popEmer.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac1 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popEvac1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac2 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popEvac2.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac3 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popEvac3.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnepopSalud {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/popSalud.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac4 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Cargas1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac5 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Cargas2.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac6 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Confinados1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac7 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Confinados2.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac8 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Loto1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac9 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Loto2.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac10 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Electrica1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac11 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Electrica2.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac12 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Caliente1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac13 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Caliente2.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac14 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Alturas1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac15 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Alturas2.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnecoinEPP {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/coinEPP.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac16 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/permisos1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac17 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/permisos2.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac18 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/permisos3.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneuno {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/uno.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnedos {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/dos.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnetres {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/tres.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneprodQuimi {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/prodQuimi.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.propFilePquimicos {
+    position: relative;
+    top: 340px;
+    left: 220px;
+}
+
+.propFilePquimicos>img {
+    width: 70px;
+}
+
+.popOnecoinAlmac {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/almacenPop.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnebuenasPracticas {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/buenasPracticas.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac19 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/manejoResiduos1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac20 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/manejoResiduos2.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac21 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/manejoResiduos3.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac22 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/manejoAguas1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac23 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/manejoAguas2.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnecalidadAire {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/calidadAire.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneusoEnergia {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/usoEnergia.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnecoinVideTwo {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/coinVideTwo.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneprsn1 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/person1Pop.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneprsn2 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/person2Pop.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneprsn3 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/person3Pop.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac24 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/peligFisicos1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac25 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/peligFisicos2.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneEvac26 {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/peligFisicos3.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneQuestion1Bien {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Question1Bien.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneQuestion1Cuidado {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Question1Cuidado.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneQstn1Bien {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Question1Bien.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneQstn1Cuidado {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Question1Cuidado.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnedialogSeguridad {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/dialogSegurPop.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 150vh;
+}
+
+
+
+
+
+
+/* ---------------------------------------------------------- */
+
+.popOnemuyBien {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/muyBien.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOnecuidado {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/cuidado.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.popOneperdiste {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/cuidado.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.imgTryAgain {
+    position: relative;
+    width: 250px;
+    height: 200px;
+    top: 350px;
+}
+
+
+
+
+/* ---------------------------------------------------------- */
+
+.popupbox-content{
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 1) !important;
+  padding: 10px 0px 0 !important;
+}
+
+.contPop {
+    border-radius: 5% !important;
+    max-width: 900px !important;
+    max-height: 720px !important;
+    margin: 0 auto !important;
+    z-index: -1 !important;
+}
+
+.contPop > .btnClosePop {
+    position: relative !important;
+    top: -20px !important;
+    align-content: right !important;
+}
+
+.customPopUpCont {
+    width: 900px !important;
+    height: 720px !important;
+}
+
+.popupbox-content .flechas {
+    position: relative;
+    width: 850px;
+    height: 400px;
+    display: table-cell;
+    vertical-align: middle;
+    align-items: stretch;
+}
+
+.fRight {
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* margin-right: 360px; */
+    width: 62px;
+}
+
+.fRight:hover {
+    transform: rotate(18deg);
+    cursor: pointer;
+}
+
+.fLeft {
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 62px;
+}
+
+.fLeft:hover {
+    transform: rotate(18deg);
+    cursor: pointer;
+}

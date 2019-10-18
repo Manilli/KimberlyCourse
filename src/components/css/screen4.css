@@ -1,0 +1,96 @@
+.contenedor {
+    max-width: 900px;
+    max-height: 510px;
+    margin: 0 auto;
+}
+
+.recorrido {
+    max-width: 900px;
+    max-height: 346px;
+    margin: 0 auto;
+}
+
+.recorr {
+    background-color: #4080C0;
+    width: 200px;
+    border-radius: 20% 20% 0 0;
+    color: white;
+    font-weight: bold;
+}
+
+.span_texto {
+    width: 500px;
+    font-style: italic;
+    color: #808080;
+    text-align: left;
+    margin: 18px auto 0;
+}
+
+.Conocer {
+    background-image: url('../../assets/Elements/conocer.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 300px;
+    height: 350px;
+    margin: 0 20px;
+}
+
+.ConocerA {
+    background-image: url('../../assets/Elements/conocerA.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 300px;
+    height: 350px;
+    margin: 0 20px;
+}
+
+.Conocer:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.Hacer {
+    background-image: url('../../assets/Elements/hacer.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 300px;
+    height: 350px;
+    margin: 0 20px;
+}
+
+.HacerA {
+    background-image: url('../../assets/Elements/hacerA.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 300px;
+    height: 350px;
+    margin: 0 20px;
+}
+
+.Hacer:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.Ser {
+    background-image: url('../../assets/Elements/ser.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 300px;
+    height: 350px;
+    margin: 0 20px;
+}
+
+.SerA {
+    background-image: url('../../assets/Elements/serA.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 300px;
+    height: 350px;
+    margin: 0 20px;
+}
+
+.Ser:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}

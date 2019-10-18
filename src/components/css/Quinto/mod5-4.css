@@ -1,0 +1,71 @@
+.contenidoPuntos {
+    position: relative;
+    width: 800px;
+    height: 490px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: -20px auto 0;
+ }
+
+.puntos {
+    position: relative;
+    width: 780px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+.coinTop {
+    position: relative;
+    width: 85%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.coinContent {
+    position: relative;
+    width: 100%;
+    height: 200px;
+}
+
+.coinDown {
+    position: relative;
+    width: 85%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.coins {
+    position: relative;
+    width: 15%;
+    height: 100%;
+    display: inline-flex;
+    flex-direction: inherit;
+}
+
+.coins:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.imgContent {
+    position: relative;
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}

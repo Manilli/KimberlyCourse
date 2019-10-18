@@ -1,0 +1,116 @@
+{
+    "base": {
+        "primera": {
+            "pregunta": "El propósito del Sistema de Gestión de Seguridad, Salud en el Trabajo y Medio Ambiente de Kimberly-Clark es:",
+            "opc1": "Desarrollar actividades de promoción, prevención y control de riesgos.",
+            "opc2": "Mantener y proteger la salud de los trabajadores en su área laboral a corto, mediano y largo plazo.",
+            "opc3": "Todas las respuestas son ciertas.",
+            "respu": "Todas las respuestas son ciertas.",
+            "respu2": 2
+        },
+        "segunda": {
+            "pregunta": "¿Qué vigencia tiene el COPASST?",
+            "opc1": "La vigencia que deseen los empleados.",
+            "opc2": "5 años.",
+            "opc3": "2 años.",
+            "respu": "2 años.",
+            "respu2": 2
+        },
+        "tercera": {
+            "pregunta": "¿Qué es el COPASST?",
+            "opc1": "Es un comité que trata los temas de salud y seguridad en Kimberly-Clark.",
+            "opc2": "Es un organismo que se encarga de los deberes y derechos de los empleados y contratistas de Kimberly-Clark.",
+            "opc3": "Es el comité que se encarga de los casos de acoso laboral y prevención de riesgo psicolaboral.",
+            "respu": "Es un comité que trata los temas de salud y seguridad en Kimberly-Clark.",
+            "respu2": 0
+        },
+        "cuarta": {
+            "pregunta": "¿Qué es un peligro o factor de riesgo?",
+            "opc1": "Es un evento que se materializa y se convierte en consecuencia.",
+            "opc2": "Es aquella condición que tiene la potencialidad de causar un daño.",
+            "opc3": "Es una señal de atención.",
+            "respu": "Es aquella condición que tiene la potencialidad de causar un daño.",
+            "respu2": 1
+        },
+        "quita": {
+            "pregunta": "¿Qué debe hacerse en caso de un accidente?",
+            "opc1": "Reportarla al jefe, al brigadista de tu empresa o de Kimberly-Clark, a la ARL , dirigirse al centro médico.",
+            "opc2": "Ir al centro médico lo más pronto y después legalizar el accidente al área de EHS.",
+            "opc3": "Avisar a la ARL para que se comunique con el área de EHS y decidan el siguiente procedimiento.",
+            "respu": "Reportarla al jefe, al brigadista de tu empresa o de Kimberly-Clark, a la ARL , dirigirse al centro médico.",
+            "respu2": 0
+        },
+        "sexta": {
+            "pregunta": "¿Qué debe hacerse cuando suene la sirena de emergencia?",
+            "opc1": "Tocar el pulsador de emergencia. ",
+            "opc2": "Evacuar hacia el punto de encuentro más cercano.",
+            "opc3": "Esperar las indicaciones de los jefes del Área de Seguridad, Salud Y Medio Ambiente.",
+            "respu": "Evacuar hacia el punto de encuentro más cercano.",
+            "respu2": 1
+        },
+        "septima": {
+            "pregunta": "¿Qué pasa si hay un incendio?",
+            "opc1": "Todos estamos obligados a salvar a un compañero. ",
+            "opc2": "Si hay un incendio todos estamos obligados a usar los extintores disponibles. ",
+            "opc3": "No pasa nada en especial. ",
+            "respu": "Si hay un incendio todos estamos obligados a usar los extintores disponibles. ",
+            "respu2": 1
+        },
+        "octaba": {
+            "pregunta": "¿Qué significa SVE?",
+            "opc1": "Sistema de Vida Empresarial.",
+            "opc2": "Solicitud de Vigilancia de la Entidad. ",
+            "opc3": "Sistema de Vigilancia Epidemiológica.",
+            "respu": "Sistema de Vigilancia Epidemiológica.",
+            "respu2": 2
+        },
+        "novena": {
+            "pregunta": "¿Qué son las Tareas de Alto Riesgo?",
+            "opc1": "Las actividades diarias que realiza un empleado o contratista. ",
+            "opc2": "Aquellas actividades que, por su naturaleza o lugar de cumplimiento, implican una mayor exposición o probabilidad de accidentes laborales severos o mortales.",
+            "opc3": "Labores peligrosas que realizan los empleados de Kimberly-Clark por fuera de las instalaciones de la empresa. ",
+            "respu": "Aquellas actividades que, por su naturaleza o lugar de cumplimiento, implican una mayor exposición o probabilidad de accidentes laborales severos o mortales.",
+            "respu2": 1
+        },
+        "decima": {
+            "pregunta": "Las Tareas de Alto Riesgo de bloqueo, rotulado y prueba (LOTOTO) se relacionan con…",
+            "opc1": "Energía eléctrica. ",
+            "opc2": "Rotulados y trabajos eléctricos. ",
+            "opc3": "Espacios confinados.",
+            "respu": "Rotulados y trabajos eléctricos. ",
+            "respu2": 1
+        },
+        "once": {
+            "pregunta": "Para cada TAR que realice el contratista, es necesario:",
+            "opc1": "Un permiso, propio de la empresa que efectúa el trabajo.",
+            "opc2": "Un documento que contenga especificaciones sobre la formación profesional del contratista.",
+            "opc3": "La hoja de vida verificada del contratista.",
+            "respu": "Un permiso, propio de la empresa que efectúa el trabajo.",
+            "respu2": 0
+        },
+        "doce": {
+            "pregunta": "El uso de productos químicos exige controles estrictos de:",
+            "opc1": "Transporte, almacenamiento, Identificación y señalización.",
+            "opc2": "Documentación del proveedor que lo vendió y el precio de estos productos.",
+            "opc3": "Transporte, uso, peso del producto y destinación final de su recipiente.",
+            "respu": "Transporte, almacenamiento, Identificación y señalización.",
+            "respu2": 0
+        },
+        "trece": {
+            "pregunta": "Las Buenas Practicas de Manufactura –BPM-  son…",
+            "opc1": "La descripción de las conductas éticas de los empleados de Kimberly-Clark.",
+            "opc2": " Los principios básicos y prácticas generales de higiene en la manipulación, preparación, elaboración, envasado, almacenamiento y transporte.",
+            "opc3": "Las condiciones para lograr que el servicio que se ejecute sea honesto y trasparente. ",
+            "respu": " Los principios básicos y prácticas generales de higiene en la manipulación, preparación, elaboración, envasado, almacenamiento y transporte.",
+            "respu2": 1
+        },
+        "catorce": {
+            "pregunta": "¿Según las indicaciones de disposición de residuos, qué se deposita en la caneca gris?",
+            "opc1": "Papel y cartón.",
+            "opc2": "Residuos no reciclables. ",
+            "opc3": "Residuos químicos.",
+            "respu": "Papel y cartón.",
+            "respu2": 0
+        }
+    }
+}

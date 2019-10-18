@@ -1,0 +1,60 @@
+.instruccion {
+    text-align: center;
+    margin: 3px auto 0.5rem;
+    display: inline-grid;
+    /* width: 720px; */
+}
+
+.instruccion1 {
+    text-align: center;
+    margin: 3px auto 0.5rem;
+    display: inline-grid;
+    width: 98%;
+    background-color: darkblue;
+}
+
+.instruccion > .text {
+    font-family: 'Gotham Book';
+    font-weight: bold;
+    font-size: 22px;
+    line-height : 24.8px;
+    margin: auto;
+    color: darkblue;
+    /* color: #100685; */
+    /* color: #4080C0; */
+}
+
+.instruccion1 > .text {
+    font-family: 'Gotham';
+    font-weight: bold;
+    font-size: 22px;
+    line-height : 24.8px;
+    margin: auto;
+    color: white;
+}
+
+.line {
+    margin: 0 auto 30px;
+    background-color: #4080C0;
+    width: 160px;
+    height: 3px;
+    border-radius: 20%;
+}
+
+.linea {
+    margin: auto 15px !important;
+}
+
+.text {
+    font-family: 'Gotham';
+    text-align: left;
+    font-size: 19px;
+    line-height : 23.8px;
+}
+
+.text>.bold {
+    color: #4080C0;
+    font-family: 'Gotham';
+    font-weight: bold;
+    font-size: 19px;
+}

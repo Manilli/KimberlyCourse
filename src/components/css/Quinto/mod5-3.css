@@ -1,0 +1,56 @@
+.contenidoAmbiental {
+    position: relative;
+    width: 800px;
+    height: 490px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+ }
+
+.textAmbien {
+    font-weight: bold;
+    color: #4080C0;
+    font-size: 18px;
+ }
+
+.contAmbiental {
+    background: url('../../../assets/Elements/ambiental.png') no-repeat;
+    background-size: 100%;
+    position: relative;
+    width: 100%;
+    height: 360px;
+}
+
+.textIAmbien {
+    color: #808080;
+    font-style: italic;
+}
+
+.palabras {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.frases {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: 11px;
+    color: white;
+    font-weight: bold;
+    font-family: Gotham;
+    left: 35px;
+    top: 8px;
+}
+
+.frases:hover {
+    transform: scale(0.95);
+    cursor: pointer;
+}

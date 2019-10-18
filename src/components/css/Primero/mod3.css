@@ -1,0 +1,44 @@
+.contenedor {
+    max-width: 900px;
+    max-height: 510px;
+    margin: 0 auto;
+}
+
+.contexto {
+    position: relative;
+    max-width: 700px;
+    margin: 0 auto;
+    z-index: 5;
+}
+
+.contImag {
+    position: relative;
+    z-index: 3;
+}
+
+.pplePtho {
+    position: relative;
+    z-index: 1;
+    width: 52%;
+    height: 100%;
+    margin: 0 auto;
+} 
+
+.pplePtho:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+} 
+
+.minText {
+    font-style: italic;
+    font-size: 19px;
+    font-family: 'Arial';
+    color: #808080;
+    margin: 0 auto;
+}
+
+.propFileconduc {
+    position: relative;
+    top: 360px;
+    left: -180px;
+}

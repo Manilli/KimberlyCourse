@@ -1,0 +1,53 @@
+.Punto {
+    position: relative;
+    display: block;
+}
+
+.coinA {
+    position: relative;
+    width: 120px;
+    height: 120px;
+    margin: 0 auto 10px;
+}
+
+.coinA:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.photoAtencion {
+    position: relative;
+    width: 100%;
+}
+
+.textDwn {
+    position: relative;
+    width: 200px;
+    font-style: italic;
+    color: #808080;
+    margin: 0 auto;
+}
+
+.textSubra {
+    position: relative;
+    color: #4080C0;
+    font-weight: bold;
+    border-bottom: 2px solid #4080C0;
+}
+
+.textSubra:hover {
+    /* position: relative; */
+    display: inline-flex;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.propFileCoinPET>img {
+    width: 70px;
+}
+
+.propFileCoinPET {
+    position: relative;
+    top: -30px;
+    left: -354px;
+}

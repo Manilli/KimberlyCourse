@@ -1,0 +1,192 @@
+.popupbox {
+    /* max-width: 900px !important; */
+    max-height: 720px !important;
+    min-height: 720px !important;
+    margin: 0 auto;
+}
+
+.popupbox-overlay {
+    max-height: 720px !important;
+    min-height: 720px !important;
+    margin: 0 auto;
+    opacity: 0.25 !important;
+}
+
+.popupbox-btn--close {
+    top: 0 !important;
+}
+
+.popupbox-wrapper {
+    background-color: rgba(255, 255, 255, 0) !important;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0) !important;
+    max-width: 95% !important;
+    min-width: 95% !important;
+    max-height: 720px !important;
+    min-height: 720px !important;
+    margin: 0 auto;
+    padding: 0 !important;
+    align-items: center;
+    justify-content: center;
+}
+
+.popupbox-titleBar {
+    border-top: 0px solid !important;
+    border-bottom: 0px solid !important;
+    position: relative !important;
+    max-width: 860px !important;
+    min-width: 860px !important;
+    margin: 0 auto !important;
+    top: 50px !important;
+    right: 10px !important;
+    padding: 0px 0 48px !important;
+}
+
+.btnClosePop {
+    background-image: url('../../assets/Elements/btnClose.png') !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% !important;
+    border-radius: 40% !important;
+    width: 60px !important;
+    height: 76px !important;
+    cursor: pointer !important;
+}
+
+.btnClosePop:hover {
+    transform: scale(0.9);
+}
+
+/* ---------------------------------------------------------- */
+
+.popOneQuestion2Bien {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Question2Bien.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 150vh;
+}
+
+.popOneQuestion2Cuidado {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Qstn2Cuidado.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 150vh;
+}
+
+.popOneQstn2Cuidado {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/Question2Cuidado.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 150vh;
+}
+
+
+
+
+
+/* ---------------------------------------------------------- */
+/* 
+.popOnemuyBien {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/muyBien.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 75vh;
+}
+
+.popOnecuidado {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/cuidado.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 75vh;
+}
+
+.popOneperdiste {
+    max-width: 850px;
+    width: 95vw;
+    background-image: url('../../assets/Elements/cuidado.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 75vh;
+} */
+
+.imgTryAgain {
+    position: relative;
+    width: 250px;
+    height: 50px;
+    top: 350px;
+}
+
+.imgTryAgain:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+
+
+/* ---------------------------------------------------------- */
+
+.popupbox-content{
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 1) !important;
+  padding: 10px 0px 0 !important;
+}
+
+.contPop {
+    border-radius: 5% !important;
+    max-width: 900px !important;
+    max-height: 720px !important;
+    margin: 0 auto !important;
+    z-index: -1 !important;
+}
+
+.contPop > .btnClosePop {
+    position: relative !important;
+    top: -20px !important;
+    align-content: right !important;
+}
+
+.customPopUpCont {
+    width: 900px !important;
+    height: 720px !important;
+}
+
+.popupbox-content .flechas {
+    position: relative;
+    width: 850px;
+    height: 400px;
+    display: table-cell;
+    vertical-align: middle;
+    align-items: stretch;
+}
+
+.fRight {
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* margin-right: 360px; */
+    width: 62px;
+}
+
+.fRight:hover {
+    transform: rotate(18deg);
+    cursor: pointer;
+}
+
+.fLeft {
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 62px;
+}
+
+.fLeft:hover {
+    transform: rotate(18deg);
+    cursor: pointer;
+}

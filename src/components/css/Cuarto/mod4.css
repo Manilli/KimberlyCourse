@@ -1,0 +1,41 @@
+.contenedor {
+    max-width: 900px;
+    max-height: 510px;
+    margin: 0 auto;
+}
+
+.textN {
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    text-align: left;
+    z-index: 2;
+}
+
+.comencemos {
+    color: #4080C0;
+    font-weight: bolder;
+    position: relative;
+    margin: -20px auto 0 330px;
+    font-size: 26px;
+}
+
+.ciud {
+    margin-left: -75px;
+}
+
+.ciud:hover {
+    position: relative;
+    top: -50px;
+    left: 50px;
+    transform: scale(1.4);
+    margin: 0 auto;
+    z-index: 99;
+}
+
+.Dwn {
+    display: inline-flex;
+    width: 600px;
+    color: #808080;
+    font-style: italic;
+}
